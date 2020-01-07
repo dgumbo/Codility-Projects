@@ -1,0 +1,6 @@
+D:\Projects\Codility_Practice_Projects\MaxProductOfThree\bin\Debug\MaxProductOfThree.exe.config
+D:\Projects\Codility_Practice_Projects\MaxProductOfThree\bin\Debug\MaxProductOfThree.exe
+D:\Projects\Codility_Practice_Projects\MaxProductOfThree\bin\Debug\MaxProductOfThree.pdb
+D:\Projects\Codility_Practice_Projects\MaxProductOfThree\obj\Debug\MaxProductOfThree.csprojAssemblyReference.cache
+D:\Projects\Codility_Practice_Projects\MaxProductOfThree\obj\Debug\MaxProductOfThree.exe
+D:\Projects\Codility_Practice_Projects\MaxProductOfThree\obj\Debug\MaxProductOfThree.pdb

@@ -1,0 +1,6 @@
+E:\Projects\Codility_Practice_Projects\PermMissingElem\bin\Debug\PermMissingElem.exe.config
+E:\Projects\Codility_Practice_Projects\PermMissingElem\bin\Debug\PermMissingElem.exe
+E:\Projects\Codility_Practice_Projects\PermMissingElem\bin\Debug\PermMissingElem.pdb
+E:\Projects\Codility_Practice_Projects\PermMissingElem\obj\Debug\PermMissingElem.csprojResolveAssemblyReference.cache
+E:\Projects\Codility_Practice_Projects\PermMissingElem\obj\Debug\PermMissingElem.exe
+E:\Projects\Codility_Practice_Projects\PermMissingElem\obj\Debug\PermMissingElem.pdb

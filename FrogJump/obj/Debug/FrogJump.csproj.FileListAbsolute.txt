@@ -1,0 +1,12 @@
+E:\Projects\Codility_Practice_Projects\FrogJump\bin\Debug\FrogJump.exe.config
+E:\Projects\Codility_Practice_Projects\FrogJump\bin\Debug\FrogJump.exe
+E:\Projects\Codility_Practice_Projects\FrogJump\bin\Debug\FrogJump.pdb
+E:\Projects\Codility_Practice_Projects\FrogJump\obj\Debug\FrogJump.csprojResolveAssemblyReference.cache
+E:\Projects\Codility_Practice_Projects\FrogJump\obj\Debug\FrogJump.exe
+E:\Projects\Codility_Practice_Projects\FrogJump\obj\Debug\FrogJump.pdb
+D:\Projects\Codility_Practice_Projects\FrogJump\bin\Debug\FrogJump.exe.config
+D:\Projects\Codility_Practice_Projects\FrogJump\bin\Debug\FrogJump.exe
+D:\Projects\Codility_Practice_Projects\FrogJump\bin\Debug\FrogJump.pdb
+D:\Projects\Codility_Practice_Projects\FrogJump\obj\Debug\FrogJump.csprojAssemblyReference.cache
+D:\Projects\Codility_Practice_Projects\FrogJump\obj\Debug\FrogJump.exe
+D:\Projects\Codility_Practice_Projects\FrogJump\obj\Debug\FrogJump.pdb

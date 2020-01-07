@@ -1,0 +1,6 @@
+D:\Projects\Codility_Practice_Projects\PrefixSet\bin\Debug\PrefixSet.exe.config
+D:\Projects\Codility_Practice_Projects\PrefixSet\bin\Debug\PrefixSet.exe
+D:\Projects\Codility_Practice_Projects\PrefixSet\bin\Debug\PrefixSet.pdb
+D:\Projects\Codility_Practice_Projects\PrefixSet\obj\Debug\PrefixSet.csprojResolveAssemblyReference.cache
+D:\Projects\Codility_Practice_Projects\PrefixSet\obj\Debug\PrefixSet.exe
+D:\Projects\Codility_Practice_Projects\PrefixSet\obj\Debug\PrefixSet.pdb
