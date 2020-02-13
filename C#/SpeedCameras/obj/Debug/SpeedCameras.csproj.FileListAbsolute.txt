@@ -1,5 +1,0 @@
-D:\Projects\Codility_Practice_Projects\SpeedCameras\bin\Debug\SpeedCameras.exe.config
-D:\Projects\Codility_Practice_Projects\SpeedCameras\bin\Debug\SpeedCameras.exe
-D:\Projects\Codility_Practice_Projects\SpeedCameras\bin\Debug\SpeedCameras.pdb
-D:\Projects\Codility_Practice_Projects\SpeedCameras\obj\Debug\SpeedCameras.exe
-D:\Projects\Codility_Practice_Projects\SpeedCameras\obj\Debug\SpeedCameras.pdb

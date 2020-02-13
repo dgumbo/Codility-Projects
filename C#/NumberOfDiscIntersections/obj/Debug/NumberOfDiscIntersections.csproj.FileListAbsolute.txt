@@ -1,6 +1,0 @@
-D:\Projects\Codility_Practice_Projects\NumberOfDiscIntersections\bin\Debug\NumberOfDiscIntersections.exe.config
-D:\Projects\Codility_Practice_Projects\NumberOfDiscIntersections\bin\Debug\NumberOfDiscIntersections.exe
-D:\Projects\Codility_Practice_Projects\NumberOfDiscIntersections\bin\Debug\NumberOfDiscIntersections.pdb
-D:\Projects\Codility_Practice_Projects\NumberOfDiscIntersections\obj\Debug\NumberOfDiscIntersections.csprojAssemblyReference.cache
-D:\Projects\Codility_Practice_Projects\NumberOfDiscIntersections\obj\Debug\NumberOfDiscIntersections.exe
-D:\Projects\Codility_Practice_Projects\NumberOfDiscIntersections\obj\Debug\NumberOfDiscIntersections.pdb

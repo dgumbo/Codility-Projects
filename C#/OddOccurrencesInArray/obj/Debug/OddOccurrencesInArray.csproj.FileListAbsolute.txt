@@ -1,6 +1,0 @@
-D:\Projects\Codility_Practice_Projects\OddOccurrencesInArray\bin\Debug\OddOccurrencesInArray.exe.config
-D:\Projects\Codility_Practice_Projects\OddOccurrencesInArray\bin\Debug\OddOccurrencesInArray.exe
-D:\Projects\Codility_Practice_Projects\OddOccurrencesInArray\bin\Debug\OddOccurrencesInArray.pdb
-D:\Projects\Codility_Practice_Projects\OddOccurrencesInArray\obj\Debug\OddOccurrencesInArray.csprojAssemblyReference.cache
-D:\Projects\Codility_Practice_Projects\OddOccurrencesInArray\obj\Debug\OddOccurrencesInArray.exe
-D:\Projects\Codility_Practice_Projects\OddOccurrencesInArray\obj\Debug\OddOccurrencesInArray.pdb

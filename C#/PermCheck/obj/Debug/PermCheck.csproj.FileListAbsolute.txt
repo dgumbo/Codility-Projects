@@ -1,5 +1,0 @@
-E:\Projects\Codility_Practice_Projects\PermCheck\bin\Debug\PermCheck.exe.config
-E:\Projects\Codility_Practice_Projects\PermCheck\bin\Debug\PermCheck.exe
-E:\Projects\Codility_Practice_Projects\PermCheck\bin\Debug\PermCheck.pdb
-E:\Projects\Codility_Practice_Projects\PermCheck\obj\Debug\PermCheck.exe
-E:\Projects\Codility_Practice_Projects\PermCheck\obj\Debug\PermCheck.pdb

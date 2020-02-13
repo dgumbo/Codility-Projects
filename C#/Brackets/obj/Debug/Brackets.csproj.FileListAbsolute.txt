@@ -1,6 +1,0 @@
-D:\Projects\Codility_Practice_Projects\Brackets\bin\Debug\Brackets.exe.config
-D:\Projects\Codility_Practice_Projects\Brackets\bin\Debug\Brackets.exe
-D:\Projects\Codility_Practice_Projects\Brackets\bin\Debug\Brackets.pdb
-D:\Projects\Codility_Practice_Projects\Brackets\obj\Debug\Brackets.csprojAssemblyReference.cache
-D:\Projects\Codility_Practice_Projects\Brackets\obj\Debug\Brackets.exe
-D:\Projects\Codility_Practice_Projects\Brackets\obj\Debug\Brackets.pdb
