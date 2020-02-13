@@ -18,8 +18,7 @@ def solution(N):
         
     max_gap = 0
     temp_gap = 0
-    
-    c = 0
+     
     p = 0
     for b in bin :
         if p == 1 and b == 0 :
@@ -41,4 +40,10 @@ def solution(N):
     # print(N, " binary value is ", bin) 
     # print("max_gap is ", max_gap) 
     
-    return max_gap;
+    return max_gap
+
+
+print(solution(15))
+print(solution(21251))
+print(solution(2741251))
+print(solution(2125651))
