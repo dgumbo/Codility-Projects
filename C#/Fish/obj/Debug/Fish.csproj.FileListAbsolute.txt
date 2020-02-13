@@ -1,6 +1,0 @@
-D:\Projects\Codility_Practice_Projects\Fish\bin\Debug\Fish.exe.config
-D:\Projects\Codility_Practice_Projects\Fish\bin\Debug\Fish.exe
-D:\Projects\Codility_Practice_Projects\Fish\bin\Debug\Fish.pdb
-D:\Projects\Codility_Practice_Projects\Fish\obj\Debug\Fish.csprojAssemblyReference.cache
-D:\Projects\Codility_Practice_Projects\Fish\obj\Debug\Fish.exe
-D:\Projects\Codility_Practice_Projects\Fish\obj\Debug\Fish.pdb
